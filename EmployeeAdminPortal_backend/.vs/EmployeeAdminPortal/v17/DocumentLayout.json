@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\onedrive\\desktop\\my project\\c#\\employeeadminportal\\employeeadminportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96399E53-C497-4151-8C8E-B43FEA2B2C3B}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 178,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:17:36.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T17:17:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T17:43:16.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:42:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:42:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:42:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:42:25.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:13:30.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\my project\\C#\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:13:25.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
